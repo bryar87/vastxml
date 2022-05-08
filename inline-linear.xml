@@ -33,12 +33,12 @@
               <ClickTracking><![CDATA[https://www.radiantmediaplayer.com/vast/tags/ping.gif?type=clickTracking]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
-              <MediaFile id="RMP1" delivery="progressive" width="480" height="270" type="video/mp4" bitrate="327" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s-270p.mp4]]></MediaFile>
-              <MediaFile id="RMP2" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="242" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s.mp4]]></MediaFile>
-              <MediaFile id="RMP3" delivery="progressive" width="320" height="180" type="video/mp4" bitrate="239" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s-180p.mp4]]></MediaFile>
-              <MediaFile id="RMP4" delivery="progressive" width="480" height="270" type="video/webm" bitrate="233" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s-270p.webm]]></MediaFile>
-              <MediaFile id="RMP5" delivery="progressive" width="640" height="360" type="video/webm" bitrate="289" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s.webm]]></MediaFile>
-              <MediaFile id="RMP6" delivery="progressive" width="320" height="180" type="video/webm" bitrate="166" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.radiantmediaplayer.com/vast/mp4s/ad-10s-180p.webm]]></MediaFile>
+              <MediaFile id="RMP1" delivery="progressive" width="480" height="270" type="video/mp4" bitrate="327" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
+              <MediaFile id="RMP2" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="242" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
+              <MediaFile id="RMP3" delivery="progressive" width="320" height="180" type="video/mp4" bitrate="239" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
+              <MediaFile id="RMP4" delivery="progressive" width="480" height="270" type="video/webm" bitrate="233" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
+              <MediaFile id="RMP5" delivery="progressive" width="640" height="360" type="video/webm" bitrate="289" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
+              <MediaFile id="RMP6" delivery="progressive" width="320" height="180" type="video/webm" bitrate="166" scalable="true" maintainAspectRatio="true"><![CDATA[https://www.w3schools.com/html/mov_bbb.mp4]]></MediaFile>
             </MediaFiles>
           </Linear>
         </Creative>
