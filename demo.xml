@@ -1,0 +1,21 @@
+<VAST version="3.0">
+  <Ad id="123" type="front">
+    <InLine>
+      <AdSystem><![CDATA[DSP]]></AdSystem>
+      <AdTitle><![CDATA[adTitle]]></AdTitle>
+     
+      <Creatives>
+        <Creative id="987">
+          <Linear>
+           
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1024" height="576"><![CDATA[https://f002.backblazeb2.com/file/kcmovies/Promo_HD1080.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Description></Description>
+      <Survey></Survey>
+    </InLine>
+  </Ad>
+</VAST>
